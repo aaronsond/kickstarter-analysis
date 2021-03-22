@@ -9,13 +9,13 @@ Some extreme outliers on goals and funding provided a challenge, but we were abl
 ### Analysis
 Launch date appears to have an effect on the success of past Kickstarter campaigns. 
 
-![Theater_Outcomes_Based_On_Launch_Date] (https://github.com/aaronsond/kickstarter-analysis/blob/ce7a59254cc56c6690a4c28b564ee0cec64fc972/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
+![Theater Outcomes Based On Launch Date](https://github.com/aaronsond/kickstarter-analysis/blob/ce7a59254cc56c6690a4c28b564ee0cec64fc972/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
 As the above chart shows, the success rate of Kickstarter campaigns increases when they are started in a specific time of year; starting in April, peaking in May, then gradually decreasing the rate of successful campaigns until September. There are also local peaks in Febuary and October, though they may not be significant. 
 
 The dollar value of a campaign also effects it's probability of success. 
 
-![Outcomes_vs_Goals](https://github.com/aaronsond/kickstarter-analysis/blob/ce7a59254cc56c6690a4c28b564ee0cec64fc972/Resources/Outcomes_vs_Goals.png)
+![Outcomes vs_Goals](https://github.com/aaronsond/kickstarter-analysis/blob/ce7a59254cc56c6690a4c28b564ee0cec64fc972/Resources/Outcomes_vs_Goals.png)
 
 Lower dollar value campaigns have succeeded at a higher rate, gradually declining as the campaigns' expectations get higher. There is a rise again in the percent of success in the $35,000 to $39,999 and $40,000 to $45,000 categories, but these categories account for a total of 9 campaigns. Conclusions should not be drawn from a sample of 9 campaigns. 
 
