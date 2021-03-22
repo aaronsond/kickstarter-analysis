@@ -9,7 +9,7 @@ Some extreme outliers on goals and funding provided a challenge, but we were abl
 ### Analysis
 Launch date appears to have an effect on the success of past Kickstarter campaigns. 
 
-![Theater_Outcomes_Based_On_Launch_Date] (https://github.com/aaronsond/kickstarter-analysis/blob/ce7a59254cc56c6690a4c28b564ee0cec64fc972/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_Based_On_Launch_Date] (https://github.com/aaronsond/kickstarter-analysis/blob/ce7a59254cc56c6690a4c28b564ee0cec64fc972/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
 As the above chart shows, the success rate of Kickstarter campaigns increases when they are started in a specific time of year; starting in April, peaking in May, then gradually decreasing the rate of successful campaigns until September. There are also local peaks in Febuary and October, though they may not be significant. 
 
